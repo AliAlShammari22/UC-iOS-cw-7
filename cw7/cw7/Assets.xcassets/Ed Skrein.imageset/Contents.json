@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "277AC30800000578-3036318-Man_in_black_The_actor_wore_an_all_black_ensemble_on_the_set-a-83_1428887593811.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
